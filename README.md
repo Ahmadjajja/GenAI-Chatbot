@@ -6,7 +6,7 @@ Welcome to the Generative AI and ChatBot Development repository! This repository
 
 - [Overview](#overview)
 - [Pre-requisite](#pre-requisite)
-- [Technologies](#technologies)
+- [Syllabuss](#syllabus)
 - [Projects](#projects)
 - [Duration](#duration)
 - [Getting Started](#getting-started)
@@ -21,73 +21,26 @@ Little Bit knowledge of Programming. Beginners friendly!
 
 ## Syllabus
 
-### Why Chatbots?
+1. **HTML, CSS, Bootstrap**
+2. **Git**
+3. **Why Chatbots?**
+4. **Hosting (gh-Pages, Netlify, Vercel)**
+5. **Teachable Machine (Powered By Google)**
+6. **TailwindCSS, Tailblocks.cc**
+7. **Freelancing (Gig and how to maintain profile, Get Leads)**
+8. **OpenAI Prompt Engineering**
+9. **JavaScript**
+10. **Express.JS and libraries**
+11. **Deployment(AWS, Render)**
+12. **Dialogflow ES**
+13. **ChatGPT 4 Vision**
+14. **NEXT.JS 13.5**
+15. **Vector Database (Pinecone, Buffer Memory)**
+16. **Python (For Streamlit)**
+17. **Flowise.ai**
+18. **LangChain**
+19. **Built a Startup End to end**
 
-An exploration into the significance and applications of chatbots in various domains.
-
-### Hosting
-
-Learn about hosting platforms such as gh-Pages, Netlify, and Vercel for deploying web applications.
-
-### Teachable Machine (Powered By Google)
-
-Introduction to Google's Teachable Machine for creating machine learning models without coding.
-
-### TailwindCSS, Tailblocks.cc
-
-Utilize TailwindCSS and Tailblocks.cc for efficient and responsive web design.
-
-### Freelancing
-
-Discover the world of freelancing, including tips on creating a profile, getting gigs, and generating leads.
-
-### OpenAI Prompt Engineering
-
-Understanding and leveraging OpenAI's prompt engineering techniques.
-
-### JavaScript
-
-In-depth coverage of JavaScript programming language.
-
-### Express.JS and Libraries
-
-Exploration of Express.js and various libraries for building robust web applications.
-
-### Deployment
-
-Learn deployment strategies using AWS, Render, and other platforms.
-
-### Dialogflow ES
-
-Introduction to Dialogflow ES for creating conversational agents.
-
-### ChatGPT 4 Vision
-
-Utilize ChatGPT 4 Vision for image-related tasks in chatbots.
-
-### NEXT.JS 13.5
-
-Explore the features and capabilities of NEXT.JS version 13.5 for building modern web applications.
-
-### Vector Database
-
-Introduction to vector databases such as Pinecone and Buffer Memory for efficient data storage.
-
-### Python (For Streamlit)
-
-Use Python with Streamlit for building interactive and data-driven web applications.
-
-### Flowise.ai
-
-Understanding Flowise.ai for enhancing chatbot capabilities.
-
-### LangChain
-
-Explore LangChain for natural language processing and understanding.
-
-### Built a Startup End to End
-
-A comprehensive project to apply the acquired skills and knowledge in building a startup from inception to execution.
 
 
 ## Projects
