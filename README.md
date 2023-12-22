@@ -2,18 +2,25 @@
 
 Welcome to the Generative AI and ChatBot Development repository! This repository contains course materials, code examples, and resources for the SMIT (Saylani Mass IT Training Program) course on Generative AI and ChatBot Development.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Pre-requisite](#pre-requisite)
-- [Syllabuss](#syllabus)
-- [Projects](#projects)
-- [Duration](#duration)
-- [Getting Started](#getting-started)
-
 ## Overview
 
 This course is designed to provide an in-depth understanding of Generative AI and ChatBot development. Participants will explore various technologies and tools to build intelligent chatbots and leverage generative AI models.
+
+## Instructor
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Ahmadjajja">
+                    <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+                    <br />
+                    <sub><b>Ahmad Jajja</b></sub>
+                </a> 
+            </td>
+        </tr> 
+</tbody>
+<table>
 
 ## Pre-requisite
 
