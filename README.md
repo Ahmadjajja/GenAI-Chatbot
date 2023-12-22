@@ -19,8 +19,8 @@ This course is designed to provide an in-depth understanding of Generative AI an
                 </a> 
             </td>
         </tr> 
-</tbody>
-<table>
+    </tbody>
+</table>
 
 ## Pre-requisite
 
@@ -35,75 +35,56 @@ Little Bit knowledge of Programming. Beginners friendly!
 - Bootstrap
 - Git
 
-### Why Chatbots?
+### 1. Why Chatbots?
+   - Explore the significance and applications of chatbots in various domains.
 
-    An exploration into the significance and applications of chatbots in various domains.
+### 2. Hosting
+   - Learn about hosting platforms such as gh-Pages, Netlify, and Vercel for deploying web applications.
 
-### Hosting
+### 3. Teachable Machine (Powered By Google)
+   - Introduction to Google's Teachable Machine for creating machine learning models without coding.
 
-    Learn about hosting platforms such as gh-Pages, Netlify, and Vercel for deploying web applications.
+### 4. TailwindCSS, Tailblocks.cc
+   - Utilize TailwindCSS and Tailblocks.cc for efficient and responsive web design.
 
-### Teachable Machine (Powered By Google)
+### 5. Freelancing
+   - Discover the world of freelancing, including tips on creating a profile, getting gigs, and generating leads.
 
-    Introduction to Google's Teachable Machine for creating machine learning models without coding.
+### 6. OpenAI Prompt Engineering
+   - Understanding and leveraging OpenAI's prompt engineering techniques.
 
-### TailwindCSS, Tailblocks.cc
+### 7. JavaScript
+   - In-depth coverage of JavaScript programming language.
 
-    Utilize TailwindCSS and Tailblocks.cc for efficient and responsive web design.
+### 8. Express.JS and Libraries
+   - Exploration of Express.js and various libraries for building robust web applications.
 
-### Freelancing
+### 9. Deployment
+   - Learn deployment strategies using AWS, Render, and other platforms.
 
-    Discover the world of freelancing, including tips on creating a profile, getting gigs, and generating leads.
+### 10. Dialogflow ES
+   - Introduction to Dialogflow ES for creating conversational agents.
 
-### OpenAI Prompt Engineering
+### 11. ChatGPT 4 Vision
+   - Utilize ChatGPT 4 Vision for image-related tasks in chatbots.
 
-    Understanding and leveraging OpenAI's prompt engineering techniques.
+### 12. NEXT.JS 13.5
+   - Explore the features and capabilities of NEXT.JS version 13.5 for building modern web applications.
 
-### JavaScript
+### 13. Vector Database
+   - Introduction to vector databases such as Pinecone and Buffer Memory for efficient data storage.
 
-    In-depth coverage of JavaScript programming language.
+### 14. Python (For Streamlit)
+   - Use Python with Streamlit for building interactive and data-driven web applications.
 
-### Express.JS and Libraries
+### 15. Flowise.ai
+   - Understanding Flowise.ai for enhancing chatbot capabilities.
 
-    Exploration of Express.js and various libraries for building robust web applications.
+### 16. LangChain
+   - Explore LangChain for natural language processing and understanding.
 
-### Deployment
-
-    Learn deployment strategies using AWS, Render, and other platforms.
-
-### Dialogflow ES
-
-    Introduction to Dialogflow ES for creating conversational agents.
-
-### ChatGPT 4 Vision
-
-    Utilize ChatGPT 4 Vision for image-related tasks in chatbots.
-
-### NEXT.JS 13.5
-
-    Explore the features and capabilities of NEXT.JS version 13.5 for building modern web applications.
-
-### Vector Database
-
-    Introduction to vector databases such as Pinecone and Buffer Memory for efficient data storage.
-
-### Python (For Streamlit)
-
-    Use Python with Streamlit for building interactive and data-driven web applications.
-
-### Flowise.ai
-
-    Understanding Flowise.ai for enhancing chatbot capabilities.
-
-### LangChain
-
-    Explore LangChain for natural language processing and understanding.
-
-### Built a Startup End to End
-
-    A comprehensive project to apply the acquired skills and knowledge in building a startup from inception to execution.
-
-
+### 17. Built a Startup End to End
+   - A comprehensive project to apply the acquired skills and knowledge in building a startup from inception to execution.
 
 ## Projects
 
