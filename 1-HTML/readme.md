@@ -1,4 +1,28 @@
 # HTML5 Curriculum Outline
+## Common HTML5 Tags:
+
+- **Structural Tags**: `<html>`, `<head>`, `<title>`, and `<body>`
+- **Heading Tags**: `<h1>` to `<h6>`
+- **Paragraph Tag**: `<p>`
+- **Link Tag**: `<a>` and `<link>`
+- **Image Tag**: `<img>`
+- **List Tags**: `<ul>`, `<ol>`, and `<li>`
+- **Table Tags**: `<table>`, `<tr>`, `<th>`, and `<td>`
+- **Form Tags**: `<form>`, `<input>`, `<select>`, and `<label>`
+- **Multimedia Tags**: `<audio>`, and `<video>`
+
+## Descriptions:
+
+- **Structural Tags**: Define the structure of the document.
+- **Heading Tags**: Create headings of different sizes.
+- **Paragraph Tag**: Creates a paragraph of text.
+- **Link Tag**: Creates links to other web pages or resources.
+- **Image Tag**: Inserts an image into the document.
+- **List Tags**: Create ordered and unordered lists.
+- **Table Tags**: Create tables with rows and cells.
+- **Form Tags**: Create forms for collecting user input.
+- **Multimedia Tags**: Embed audio, and video.
+
 ### Class 1: Introduction to HTML5
 
 - **Topic**: What is HTML5?
@@ -52,29 +76,4 @@
 - **Lab**: Add multimedia to your HTML5 page
  - Insert images and videos into your page
  - Embed audio and video files
-
-
-## Common HTML5 Tags:
-
-- **Structural Tags**: `<html>`, `<head>`, `<title>`, and `<body>`
-- **Heading Tags**: `<h1>` to `<h6>`
-- **Paragraph Tag**: `<p>`
-- **Link Tag**: `<a>` and `<link>`
-- **Image Tag**: `<img>`
-- **List Tags**: `<ul>`, `<ol>`, and `<li>`
-- **Table Tags**: `<table>`, `<tr>`, `<th>`, and `<td>`
-- **Form Tags**: `<form>`, `<input>`, `<select>`, and `<label>`
-- **Multimedia Tags**: `<audio>`, and `<video>`
-
-## Descriptions:
-
-- **Structural Tags**: Define the structure of the document.
-- **Heading Tags**: Create headings of different sizes.
-- **Paragraph Tag**: Creates a paragraph of text.
-- **Link Tag**: Creates links to other web pages or resources.
-- **Image Tag**: Inserts an image into the document.
-- **List Tags**: Create ordered and unordered lists.
-- **Table Tags**: Create tables with rows and cells.
-- **Form Tags**: Create forms for collecting user input.
-- **Multimedia Tags**: Embed audio, and video.
 
