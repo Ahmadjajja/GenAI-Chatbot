@@ -54,9 +54,7 @@
  - Embed audio and video files
 
 
-
-
-**Common HTML5 Tags:**
+## Common HTML5 Tags:
 
 - **Structural Tags**: `<html>`, `<head>`, `<title>`, and `<body>`
 - **Heading Tags**: `<h1>` to `<h6>`
@@ -68,7 +66,7 @@
 - **Form Tags**: `<form>`, `<input>`, `<select>`, and `<label>`
 - **Multimedia Tags**: `<audio>`, and `<video>`
 
-**Descriptions:**
+## Descriptions:
 
 - **Structural Tags**: Define the structure of the document.
 - **Heading Tags**: Create headings of different sizes.
