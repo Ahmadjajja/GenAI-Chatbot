@@ -106,4 +106,4 @@ Little Bit knowledge of Programming. Beginners friendly!
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Ahmadjajja/AI-Chatbot
+   git clone https://github.com/Ahmadjajja/GenAI-Chatbot
