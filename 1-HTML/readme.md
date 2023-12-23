@@ -1,6 +1,4 @@
-
-﻿﻿ ## HTML5 Curriculum Outline
-
+# HTML5 Curriculum Outline
 ### Class 1: Introduction to HTML5
 
 - **Topic**: What is HTML5?
