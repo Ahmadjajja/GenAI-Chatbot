@@ -46,7 +46,7 @@
  - Add input fields, such as text, email, and password
  - Style the form using CSS
 
-### Class 5: HTML5 Multimedia and Canvas
+### Class 5: HTML5 Multimedia
 
 - **Topic**: Multimedia in HTML5
  - Images and Videos
