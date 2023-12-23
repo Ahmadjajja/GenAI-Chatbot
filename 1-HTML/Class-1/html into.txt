@@ -1,0 +1,17 @@
+<DOCTYPE html/>  
+<html>
+	<head>
+                head tag is used for info website
+        <head/>
+        <body>
+		body tag is used for user info
+        <body/>
+<html/>
+
+1- HTML, CSS, JS Why we used these languages?
+2- Structure
+
+
+
+
+
