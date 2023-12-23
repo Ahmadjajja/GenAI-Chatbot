@@ -1,7 +1,7 @@
 
 ﻿﻿ ## HTML5 Curriculum Outline
 
-### Week 1: Introduction to HTML5
+### Class 1: Introduction to HTML5
 
 - **Topic**: What is HTML5?
   - Definition of HTML5
@@ -12,7 +12,7 @@
   - Write your first HTML5 code
   - Save and view your HTML5 document
 
-### Week 2: Basic HTML5 Structure and Tags
+### Class 2: Basic HTML5 Structure and Tags
 
 - **Topic**: Structure of an HTML5 Document
  - HTML Elements and Tags
@@ -23,7 +23,7 @@
  - Add paragraphs and images
  - Add links and lists
 
-### Week 3: HTML5 Formatting and Styling
+### Class 3: HTML5 Formatting and Styling
 
 - **Topic**: Formatting and Styling with HTML5
  - HTML Attributes for Styling
@@ -34,7 +34,7 @@
  - Style the text, headings, and links
  - Add a background image
 
-### Week 4: HTML5 Forms and Input
+### Class 4: HTML5 Forms and Input
 
 - **Topic**: Forms and Input in HTML5
  - HTML Forms
@@ -46,7 +46,7 @@
  - Add input fields, such as text, email, and password
  - Style the form using CSS
 
-### Week 5: HTML5 Multimedia and Canvas
+### Class 5: HTML5 Multimedia and Canvas
 
 - **Topic**: Multimedia in HTML5
  - Images and Videos
