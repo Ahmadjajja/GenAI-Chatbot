@@ -1,14 +1,13 @@
 Assignment#01
 
 Dear Students / Brothers.
-Generative AI-Chatbot Batch 2023-24
+Web And Mobile Application Development Batch 07 2023-24
 
 Requirements:
 
 1- Please create the exactly same HTML structure like (Home.jpg,Menu.jpg,AbouUs.jpg,ContactUs.jpg,Timing.jpg attach in same folder)
 2- Use the shared assets.
 3- Please deploy into surge, and create online link
-4- Share GitHub link as well.
 4- Submit the assignment at link below
 
 
