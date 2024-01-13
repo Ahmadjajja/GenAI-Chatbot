@@ -1,0 +1,14 @@
+There are to methods to connect git repository with github : 
+
+method 1
+a) Create two repositries :- one locally, and other on github
+b) Link both repositories
+c) other working process is same for both
+d) git push origin main
+
+
+method 2 
+a) copy url of repo from github
+b) run command git clone copied_url
+c) other working process is same for both
+d) git push origin main
