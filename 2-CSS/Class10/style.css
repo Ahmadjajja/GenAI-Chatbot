@@ -1,0 +1,9 @@
+#first {
+  /* background-color: green;
+  background-image: url("./nature.jpg");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-attachment: fixed;
+  background-size: cover; */
+  background: green url("./nature.jpg") no-repeat left bottom;
+}
