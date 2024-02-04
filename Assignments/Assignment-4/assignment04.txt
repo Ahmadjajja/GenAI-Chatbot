@@ -1,0 +1,17 @@
+Assignment#04
+
+Dear Students / Brothers.
+AI-Chatbot
+
+Requirements:
+
+1- Please create the exactly same HTML structure like attach in same folder.
+2- Use the assets from https://drive.google.com/drive/u/0/folders/1BRjMKIarMFs2WJTSDQkuim5VCAw-UuHt
+3- Please deploy into surge, create online link and add link in submission form
+4- Push code on GitHub, and add link in submission form
+5- Post on linkedin and submit that post URL in submission form
+5- Submition URL Will be shared soon.
+
+
+Deadline: 9 feb, 2024
+Submission URL : share soon.
