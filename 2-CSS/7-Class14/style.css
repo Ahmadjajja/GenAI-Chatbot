@@ -1,0 +1,33 @@
+a:link{
+    color: red;
+}
+
+
+/* visited link */
+
+a:visited{
+    color: black;
+}
+
+/* active */
+
+a:active{
+    background-color: blue;
+}
+/* hover */
+
+a:hover{
+    color: green;
+}
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    /* list-style-position: inside; */
+}
+ol{
+    list-style-type:lower-alpha;
+    list-style-position: inside;
+    /* list-style-image: ; */
+}
