@@ -1,0 +1,187 @@
+/* There are six types of screen sizes to design a website reponsive */
+
+/* 1- extra-small screen <= 576px (Mobile)*/
+
+
+
+
+
+@media only screen and (max-width: 576px) {
+    /* .box1{
+        background-color: aqua;
+        color: black;
+    } */
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+
+
+}
+
+/* 2- small screen > 576px (Tablet)*/
+
+@media only screen and (min-width: 576px) {
+    /* .box1{
+        background-color: black;
+        color: white;
+    } */
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+}
+
+/* 3- medium screen > 768px (Tablet) */
+
+@media only screen and (min-width: 768px) {
+    /* .box1{
+        background-color: green;
+        color: yellow;
+    } */
+
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+}
+
+/* 4- large screen > 992px (Desktop)*/
+
+@media only screen and (min-width: 992px) {
+    /* .box1{
+        background-color: navy;
+        color: navajowhite;
+    } */
+
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+}
+
+/* 5- extra large > 1200 (Desktop)*/
+
+@media only screen and (min-width: 1200px) {
+    /* .box1{
+        background-color: violet;
+        color: mediumaquamarine;
+    } */
+
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+
+
+}
+
+/* 6- extra extra large > 1400 (Desktop)*/
+@media only screen and (min-width: 1400px) {
+    /* .box1{
+        background-color: honeydew;
+        color: saddlebrown;
+    } */
+
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+    .box1{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box2{
+        background-color: blue;
+        color: white;
+    }
+    .box3{
+        background-color: antiquewhite;
+        color: black;
+    }
+    .box4{
+        background-color: blue;
+        color: white;
+    }
+}
+
