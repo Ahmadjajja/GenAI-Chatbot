@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #demo{
+            border: solid 2px red;
+            height: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2 id="heading">My First JavaScript</h2>
+
+    <button type="button" onclick="headingChange()">
+        Click me to display Date and Time.</button>
+
+    <p id="demo"></p>
+    
+    <script>
+        function headingChange() {
+            document.getElementById('heading').innerHTML = 'Hello World'
+        }
+    </script>
+</body>
+
+</html>
