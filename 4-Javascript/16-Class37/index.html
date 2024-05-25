@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- <form >
+        Name:
+        <input type="text" id="name">
+        Email:
+        <input type="email" id="email" >
+        Password:
+        <input type="password" id="password">
+
+        <input type="button" value="Submit" onclick="submitHandler()">
+    </form>
+
+    <p id="paragraph">Lorem <b>ipsum</b> <i>dolor</i> sit amet.</p> -->
+
+
+    <!-- <form >
+        Zip:
+        <input type="text" id="zip" onblur="fillCity()">
+        City:
+        <input type="text" id="city">
+        Password:
+    </form> -->
+
+    <!-- <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, optio? <a href="javascript:void(0)"
+            onclick="expand()">Read more</a></p> -->
+
+
+    <!-- <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg"
+        alt="" id="img1" onmouseover="removeImage()" onmouseout="addImage()"> -->
+
+
+
+    <img src="https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg"
+        alt="" id="img2" style="border: 2px red solid;" onmouseover="secondImage()" onmouseout="firstImage()">
+
+
+    
+
+
+
+
+
+
+    <script>
+
+        function secondImage() {
+            document.getElementById("img2").src = "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        }
+        function firstImage() {
+            document.getElementById("img2").src = "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg"
+        }
+        function removeImage() {
+            document.getElementById("img1").style.visibility = "hidden"
+        }
+        function addImage() {
+            document.getElementById("img1").style.visibility = "visible"
+        }
+        function expand() {
+            let completeText = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur hic, eos incidunt optio, ullam eaque corrupti iure enim rem provident dignissimos blanditiis quos, est beatae praesentium sint. Delectus, excepturi consectetur."
+            document.getElementById("p1").innerHTML = completeText
+        }
+
+
+        function fillCity() {
+
+            let zipCode = document.getElementById("zip").value
+            let city;
+
+            if (zipCode == 38000) {
+                document.getElementById("city").value = "Faisalabad"
+            } else if (zipCode == 39000) {
+                document.getElementById("city").value = "Lahore"
+            } else {
+                document.getElementById("city").value = "Invalid zip code..!!"
+            }
+        }
+
+
+
+        // let name = "Ahmad"
+        // let email = "ahmad@gmail.com"
+        // let password = "ahmad@0987"
+        function submitHandler() {
+            console.log("name -> ", document.getElementById("name").value)
+            console.log("email -> ", document.getElementById("email").value)
+            console.log("password -> ", document.getElementById("password").value)
+            console.log("paragraph text -> ", document.getElementById("paragraph").innerHTML)
+        }
+
+
+
+
+
+    </script>
+</body>
+
+</html>
