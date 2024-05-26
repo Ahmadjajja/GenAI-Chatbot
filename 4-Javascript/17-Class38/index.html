@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- https://www.mooc.org/hs-fs/hubfs/learn-programming-career-jpg.jpeg?width=500&name=learn-programming-career-jpg.jpeg -->
+    <!-- https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg -->
+    <!-- 
+    <img id="pic"
+        src=" https://www.mooc.org/hs-fs/hubfs/learn-programming-career-jpg.jpeg?width=500&name=learn-programming-career-jpg.jpeg"
+        onmouseover="picvanish();" onmouseout="picvisibile();"> -->
+
+
+    <!-- <p id="para">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. At, odit!
+            <a href="javascript:void(0)" onclick="displayCompleteText()">read more...</a>
+        </p> -->
+
+
+
+
+
+    <img id="img1" style="display: block;"
+        src="https://www.mooc.org/hs-fs/hubfs/learn-programming-career-jpg.jpeg?width=500&name=learn-programming-career-jpg.jpeg"
+        onmouseover="textappear()" onmouseout="textDisappear()"="">
+
+    <h1 id="text1" style="display: none;">image disappeared</h1>
+    <script>
+
+        function textappear() {
+            document.getElementById("img1").style.display = "none"
+            document.getElementById("text1").style.display = "block"
+        }
+
+        function textDisappear() {
+            document.getElementById("img1").style.display = "block"
+            document.getElementById("text1").style.display = "none"
+        }        
+        // function picvanish() {
+        //     document.getElementById("pic").src = "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/computer-coding.jpg"
+        // }
+        // function picvisibile() {
+        //     document.getElementById("pic").src = "https://www.mooc.org/hs-fs/hubfs/learn-programming-career-jpg.jpeg?width=500&name=learn-programming-career-jpg.jpeg"
+        // }
+
+        // function displayCompleteText() {
+        //     document.getElementById('para').innerHTML = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, aliquid pariatur. Impedit iste commodi sed quaerat maiores fuga, at blanditiis ipsum! Harum pariatur expedita autem sequi est magni commodi quis rem aperiam suscipit eaque dolorem quisquam adipisci, quo fugiat necessitatibus consequuntur quod tempore reiciendis officia aliquid sapiente omnis? Cupiditate, optio.';
+        // }
+
+    </script>
+
+
+</body>
+
+</html>
