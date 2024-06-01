@@ -1,0 +1,13 @@
+	Name		LeetCode Questions
+
+1. Ammar		-	23
+2. Muhammad Hamza	-	15
+3. Abdul Hanan		-	15
+4. Ali Rashid		-	4
+5. Muaz Awais 		-	3
+6. Muhammad haroon	-	0
+5. Afaq Hassan		-	0
+6. Muhammad Javed	-	0
+7. Ali Zar		-	0
+8. Mudassar Ali		-	0
+9. Irfan Maqbool	-	0
