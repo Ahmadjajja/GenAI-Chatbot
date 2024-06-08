@@ -1,13 +1,20 @@
 	Name		LeetCode Questions
 
-1. Ammar		-	23
-2. Muhammad Hamza	-	15
-3. Abdul Hanan		-	15
-4. Ali Rashid		-	4
-5. Muaz Awais 		-	3
-6. Muhammad haroon	-	0
-5. Afaq Hassan		-	0
-6. Muhammad Javed	-	0
-7. Ali Zar		-	0
-8. Mudassar Ali		-	0
-9. Irfan Maqbool	-	0
+1. Ammar		-	23 absent
+2. Muhammad Hamza	-	15 absent
+3. Abdul Hanan		-	22 
+4. Ali Rashid		-	10 solved 6 Qs in this week.
+5. Ahmad Raza 		-	10  
+6. Muhammad haroon	-	0  solved 0 Qs in this week.
+5. Afaq Hassan		-	0  absent
+6. Muhammad Javed	-	1  solved 1 Qs in this week.  
+7. Ali Zar		-	0  solved 0 Qs in this week.
+8. Mudassar Ali		-	0  absent
+9. Irfan Maqbool	-	1  solved 1 Qs in this week.
+10.Arhum Waheed		- 	1  solved 1 Qs in this week.
+11.Marsad Usman		-	20
+12.Usman Mirza 		-	0  solved 0 Qs in this week.
+13.Muhammad Usman	-	1  solved 1 Qs in this week.
+14.Zain Majeed		- 	0  solved 0 Qs in this week.
+15.Muhammad Awais	- 	0  solved 0 Qs in this week.
+

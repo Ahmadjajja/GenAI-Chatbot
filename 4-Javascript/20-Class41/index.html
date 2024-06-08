@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body id="body">
+
+
+    <!-- <div id="div1">
+        <a id="github" href="https://github.com/Ahmadjajja">
+            asdfgh
+        </a>
+        <a href="https://www.google.com">google</a>
+    </div><p>
+        hello <b>everyone</b>
+    </p> -->
+
+    <div id="div2">
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi minima dolor laborum unde, est ad?</p>
+        <!-- <h1 style="background-color: red;">Lorem ipsum dolor sit amet.</h1> -->
+        <p id="lastP">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque eius similique saepe enim optio!</p>
+    </div>
+
+    <script>
+        var nodeToAdd = document.createElement("h1");
+        var newTxt = document.createTextNode("Lorem ipsum dolor sit amet.");
+        nodeToAdd.append(newTxt)
+        nodeToAdd.style.backgroundColor = "red"
+        var lastP = document.getElementById("lastP")
+
+        document.getElementById("div2").insertBefore(nodeToAdd, lastP)
+        
+        // console.log(document.getElementById("div1").childNodes)
+        // console.log(document.getElementById("github").attributes)
+        // console.log(document.getElementById("github").hasAttribute("style"))
+        // console.log(document.getElementById("github").hasAttribute("id"))
+        // console.log(document.getElementById("github").hasAttribute("href"))
+        // console.log(document.getElementById("github").getAttribute("href"))
+        // document.getElementById("github").setAttribute("href", "https://github.com/m-arhumwaheed")
+        // console.log(document.getElementById("github").getAttribute("href"))
+
+
+        // console.log(document);
+        // console.log(document.getElementById("div1"));
+        // console.log(document.getElementById("div1").getElementById("github"))
+
+
+        // console.log(document.getElementById("body").childNodes);
+
+    </script>
+</body>
+
+</html>
