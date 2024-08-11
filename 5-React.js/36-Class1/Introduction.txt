@@ -1,0 +1,14 @@
+React.js
+        - It is a javascript library.
+        - React.js develops single page web applications.
+        - modularity (reusable components)
+        - virtual dom
+        - strong community support
+        - flexibility
+
+Setting up the development environment:
+1. Node.js
+2. NPM - Node Package Manager
+3. Yarn - Yarn is alternative of NPM
+4. Create react application
+        - npx create-react-app app-name
