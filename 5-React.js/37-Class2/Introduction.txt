@@ -1,0 +1,24 @@
+React.js
+        A javascript library for building user interfaces, primarily for single page application.
+
+Benefits:
+        Component based
+        Virtual DOM
+        Community support
+
+Setting up the development environment:
+
+    1. Install Node.js
+    2. npm(Node Package Manager) / yarn
+    3. create react app
+
+
+Rule in coding:
+    1. Do not repeat yourself
+
+Steps:
+1. Install node.js
+2. use npm(comes with Node.js) or yarn to install CRA(create react app)
+    - npx create-react-app my-app
+    - cd my-app
+    - npm start
