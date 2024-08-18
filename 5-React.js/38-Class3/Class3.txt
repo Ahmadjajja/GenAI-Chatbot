@@ -1,0 +1,12 @@
+.jsx vs .js
+
+.jsx: The file that involves html and javascript
+.js: The file that involves html and javascript
+
+
+Few things that we will cover today class:
+1. components
+2. props
+3. types of components
+    i. functional components
+    ii.class base components
