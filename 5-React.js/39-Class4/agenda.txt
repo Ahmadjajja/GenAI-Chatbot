@@ -1,0 +1,9 @@
+Today's agenda:
+
+1. How the folder structure in react.js look like?
+2. Styling in react.js
+    i.   inline
+    ii.  internal
+    iii. external
+    iv.  css modules
+        
