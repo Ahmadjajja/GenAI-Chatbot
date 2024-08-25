@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+    outline: 2px green dashed;
+    color: green;
+}
+
+.heading{
+    font-weight: bolder;
+}

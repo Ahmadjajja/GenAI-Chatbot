@@ -1,0 +1,5 @@
+CSS Styling we are going to cover today:
+1. inline CSS
+2. internal CSS
+3. external CSS
+4. CSS modules
