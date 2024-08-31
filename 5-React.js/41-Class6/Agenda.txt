@@ -1,0 +1,6 @@
+We are going to cover below topics today:
+
+1. react events (onClick, onChange, onMouseOver, and so on...)
+2. react conditionals
+3. react hooks
+4. usestate
