@@ -1,0 +1,10 @@
+Topics that we will cover today are:
+1. useEffect Hook
+    i.  useEffect without dependencies() runs on every render + first render
+    ii. useEffect with empty dependency ([]) only runs for first time.
+    iii.useEffect with multiple dependencies ([users]) only runs for first time and when users changes
+
+
+2. Lists
+    We generally use array's map method for it.
+        - we must key to returning html element to uniquely identify that.
