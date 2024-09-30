@@ -1,32 +1,32 @@
-import axios from 'axios';
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 
 function App() {
   // Step 1: Setting initial state for the CRUD operations
   // tasks, task, isEditing, currentTask
-  const [tasks, setTasks] = useState([])
+  const [tasks, setTasks] = useState([{ id: 1, name: "Ahmad" },
+  { id: 2, name: "Amaar" }])
   const [task, setTask] = useState('')
   const [isEditing, setIsEditing] = useState(false)
   const [currentTask, setCurrentTask] = useState(null)
 
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  // const [loading, setLoading] = useState(true);
+  // const [error, setError] = useState(null);
 
 
-  useEffect(() => {
-    const fetchData = async () => {
-        try {
-            const response = await axios.get('https://retoolapi.v/rOoy1D/data'); // Replace with your API URL
-            setTasks(response.data);
-        } catch (err) {
-            setError(err);
-        } finally {
-            setLoading(false);
-        }
-    };
+  //   useEffect(() => {
+  //     const fetchData = async () => {
+  //         try {
+  //             const response = await axios.get('https://retoolapi.v/rOoy1D/data'); // Replace with your API URL
+  //             setTasks(response.data);
+  //         } catch (err) {
+  //             setError(err);
+  //         } finally {
+  //             setLoading(false);
+  //         }
+  //     };
 
-    fetchData();
-}, []); // Empty dependency array means it runs once on mount
+  //     fetchData();
+  // }, []); // Empty dependency array means it runs once on mount
 
   // Step 2: Handling input change
   const handleInputChange = (e) => {
@@ -58,8 +58,8 @@ function App() {
   // Step 5: Saving an edited task (Update operation)
   const handleSaveEditTask = () => {
     setTasks(
-      tasks.map((item) => 
-      item.id == currentTask.id ? {...item, name: task  } : item
+      tasks.map((item) =>
+        item.id == currentTask.id ? { ...item, name: task } : item
       )
     )
     setIsEditing(false)
@@ -73,8 +73,8 @@ function App() {
 
 
 
-  if (loading) return <div>Loading...</div>;
-  if (error) return <div>Error: {error.message}</div>;
+  // if (loading) return <div>Loading...</div>;
+  // if (error) return <div>Error: {error.message}</div>;
 
   return (
     <div className="App">
